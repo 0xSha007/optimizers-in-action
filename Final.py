@@ -129,7 +129,7 @@ METHODS = [
 # ----------------------------------------------------
 # 3. Sidebar Controls (Single vs. Compare, Hyperparams)
 # ----------------------------------------------------
-st.title("Gradient Descent with Early Stopping + 'Popup' Annotations")
+st.title("Gradient Descent with Early Stopping")
 
 mode = st.sidebar.radio("Mode of Operation:", ["Single Method", "Compare Two Methods"])
 
