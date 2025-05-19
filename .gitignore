@@ -1,0 +1,9 @@
+# Ignore Python scripts you don't want in the repo
+app.py
+app2.py
+
+# Ignore virtual environment folder
+env/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
